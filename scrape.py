@@ -2,6 +2,27 @@
 #python -m pip install beautifulsoup4
 
 
+#go to git bash
+#git config --global user name "Sabita Tiwari"
+#git config --global user.email "sabita.tiwari613@gmail.com"
+
+
+#git init ==>initialize git
+#git status==> if you want to check what ae the status of files
+#git diff==>if you want to check what are the changes
+#git add .
+#git commit -m "Finish Project"
+#copy paste git code from github
+
+
+#################
+#1.change the code
+#2.git add .
+#3.git commit -m "your message"
+#4.git push
+###################
+
+
 import requests
 from bs4 import BeautifulSoup
 import json
